@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Ravi's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=rsins&show_icons=true&hide_border=true "Ravi's GitHub Statistics")
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rsins&langs_count=20&card_width=500px&hide_border=true "Most Used Languages")
+You can find me [here](https://rsins.github.io/ "Home Page").
